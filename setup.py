@@ -1,3 +1,3 @@
 from setuptools import setup
 
-setup(name="<name_of_your_dataset>", packages=["<name_of_your_dataset>"])
+setup(name="camera_trajectory_generation_dataset", packages=["camera_trajectory_generation_dataset"])
